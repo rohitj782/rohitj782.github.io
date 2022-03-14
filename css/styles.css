@@ -1,0 +1,25 @@
+.body_background{
+  background-color: #000000b6;
+  color: whitesmoke;
+}
+
+.link_button{
+  color: whitesmoke;
+  background-color: rgba(0, 0, 0, 0.315);
+  width: 50%;
+  height: 60px;
+  font-size: 20px;
+  letter-spacing: 2px;
+  font-weight: bold;
+  padding: 12px 16px;
+  cursor: pointer;
+}
+.link_button:hover {
+  background-color:  rgba(0, 0, 0, 0.664);
+}
+
+.button_div{
+width: 100%;
+align-self: center;
+align-items: center;
+}
